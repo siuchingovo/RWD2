@@ -18,7 +18,7 @@ $(document).ready(function(){
 
     $(document).ready(function(){
         setTimeout(function(){
-          $(".loading").fadeOut(500);}, 5000);
+          $(".loading").fadeOut(500);}, 500);
     });
   
 
